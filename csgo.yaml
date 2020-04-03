@@ -1,7 +1,6 @@
 ---
-timestamp: 1585889898
+timestamp: 1585893502
 signatures:
-  anim_overlays: 10624
   clientstate_choked_commands: 19752
   clientstate_delta_ticks: 372
   clientstate_last_outgoing_command: 19748
@@ -25,7 +24,6 @@ signatures:
   dwForceLeft: 51851160
   dwForceRight: 51851148
   dwGameDir: 6456824
-  dwGameRulesProxy: 86370604
   dwGetAllClasses: 13975148
   dwGlobalVars: 5806800
   dwGlowObjectManager: 86546616
@@ -46,12 +44,10 @@ signatures:
   dwZoomSensitivityRatioPtr: 13862352
   dwbSendPackets: 866826
   dwppDirect3DDevice9: 684080
-  find_hud_element: 752205984
   force_update_spectator_glow: 3772450
   interface_engine_cvar: 256492
   is_c4_owner: 3823600
   m_bDormant: 237
-  m_flSpawnTime: 41824
   m_pStudioHdr: 10572
   m_pitchClassPtr: 85420552
   m_yawClassPtr: 13841288
@@ -86,17 +82,11 @@ netvars:
   m_bSpotted: 2365
   m_bSpottedByMask: 2432
   m_bStartedArming: 13280
-  m_bUseCustomAutoExposureMax: 2521
-  m_bUseCustomAutoExposureMin: 2520
-  m_bUseCustomBloomScale: 2522
   m_clrRender: 112
   m_dwBoneMatrix: 9896
   m_fAccuracyPenalty: 13088
   m_fFlags: 260
   m_flC4Blow: 10640
-  m_flCustomAutoExposureMax: 2528
-  m_flCustomAutoExposureMin: 2524
-  m_flCustomBloomScale: 2532
   m_flDefuseCountDown: 10668
   m_flDefuseLength: 10664
   m_flFallbackWear: 12736

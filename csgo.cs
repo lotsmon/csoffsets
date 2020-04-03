@@ -1,10 +1,10 @@
 using System;
 
-// 2020-04-03 04:58:18.749862800 UTC
+// 2020-04-03 05:58:22.271448 UTC
 
 namespace hazedumper
 {
-    public const Int32 timestamp = 1585889898;
+    public const Int32 timestamp = 1585893502;
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -34,17 +34,11 @@ namespace hazedumper
         public const Int32 m_bSpotted = 0x93D;
         public const Int32 m_bSpottedByMask = 0x980;
         public const Int32 m_bStartedArming = 0x33E0;
-        public const Int32 m_bUseCustomAutoExposureMax = 0x9D9;
-        public const Int32 m_bUseCustomAutoExposureMin = 0x9D8;
-        public const Int32 m_bUseCustomBloomScale = 0x9DA;
         public const Int32 m_clrRender = 0x70;
         public const Int32 m_dwBoneMatrix = 0x26A8;
         public const Int32 m_fAccuracyPenalty = 0x3320;
         public const Int32 m_fFlags = 0x104;
         public const Int32 m_flC4Blow = 0x2990;
-        public const Int32 m_flCustomAutoExposureMax = 0x9E0;
-        public const Int32 m_flCustomAutoExposureMin = 0x9DC;
-        public const Int32 m_flCustomBloomScale = 0x9E4;
         public const Int32 m_flDefuseCountDown = 0x29AC;
         public const Int32 m_flDefuseLength = 0x29A8;
         public const Int32 m_flFallbackWear = 0x31C0;
@@ -95,7 +89,6 @@ namespace hazedumper
     }
     public static class signatures
     {
-        public const Int32 anim_overlays = 0x2980;
         public const Int32 clientstate_choked_commands = 0x4D28;
         public const Int32 clientstate_delta_ticks = 0x174;
         public const Int32 clientstate_last_outgoing_command = 0x4D24;
@@ -119,7 +112,6 @@ namespace hazedumper
         public const Int32 dwForceLeft = 0x3172F98;
         public const Int32 dwForceRight = 0x3172F8C;
         public const Int32 dwGameDir = 0x6285F8;
-        public const Int32 dwGameRulesProxy = 0x525E92C;
         public const Int32 dwGetAllClasses = 0xD53E6C;
         public const Int32 dwGlobalVars = 0x589AD0;
         public const Int32 dwGlowObjectManager = 0x52898B8;
@@ -140,12 +132,10 @@ namespace hazedumper
         public const Int32 dwZoomSensitivityRatioPtr = 0xD385D0;
         public const Int32 dwbSendPackets = 0xD3A0A;
         public const Int32 dwppDirect3DDevice9 = 0xA7030;
-        public const Int32 find_hud_element = 0x2CD5C0A0;
         public const Int32 force_update_spectator_glow = 0x399022;
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3A57F0;
         public const Int32 m_bDormant = 0xED;
-        public const Int32 m_flSpawnTime = 0xA360;
         public const Int32 m_pStudioHdr = 0x294C;
         public const Int32 m_pitchClassPtr = 0x5176A08;
         public const Int32 m_yawClassPtr = 0xD33388;

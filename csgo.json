@@ -1,5 +1,5 @@
 {
-  "timestamp": 1585889898,
+  "timestamp": 1585892112,
   "signatures": {
     "anim_overlays": 10624,
     "clientstate_choked_commands": 19752,
@@ -32,6 +32,7 @@
     "dwInput": 85536640,
     "dwInterfaceLinkList": 9405428,
     "dwLocalPlayer": 13818756,
+    "dwMatchFound": 1290695541,
     "dwMouseEnable": 13842216,
     "dwMouseEnablePtr": 13842168,
     "dwPlayerResource": 51843900,
@@ -46,7 +47,7 @@
     "dwZoomSensitivityRatioPtr": 13862352,
     "dwbSendPackets": 866826,
     "dwppDirect3DDevice9": 684080,
-    "find_hud_element": 752205984,
+    "find_hud_element": 769179808,
     "force_update_spectator_glow": 3772450,
     "interface_engine_cvar": 256492,
     "is_c4_owner": 3823600,

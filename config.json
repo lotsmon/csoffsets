@@ -12,16 +12,6 @@
       ],
       "pattern": "A1 ? ? ? ? 33 D2 6A 00 6A 00 33 C9 89 B0"
     },
-	{
-      "name": "dwMatchFound",
-      "extra": 0,
-      "relative": true,
-      "module": "engine.dll",
-      "offsets": [
-        1
-      ],
-      "pattern": "6D 75 73 69 63 5C 76 61 6C 76 65 5F 63 73 67 6F 5F 30 32 5C 6D 61 69 6E 6D 65 6E 75 2E 6D 70 33"
-    },
     {
       "name": "dwClientState_GetLocalPlayer",
       "extra": 0,

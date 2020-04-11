@@ -22,6 +22,16 @@
       ],
       "pattern": "8B 80 ? ? ? ? 40 C3"
     },
+	{
+      "name": "dwAutoAccept",
+      "extra": 0,
+      "relative": true,
+      "module": "client_panorama.dll",
+      "offsets": [
+        2
+      ],
+      "pattern": "55 8B EC 83 E4 F8 8B 4D 08 BA ? ? ? ? E8 ? ? ? ? 85 C0 75 12"
+    },
     {
       "name": "dwClientState_IsHLTV",
       "extra": 0,

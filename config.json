@@ -23,6 +23,16 @@
       "pattern": "8B 80 ? ? ? ? 40 C3"
     },
 	{
+      "name": "dwAcceptMatch",
+      "extra": 0,
+      "relative": true,
+      "module": "client_panorama.dll",
+      "offsets": [
+        2
+      ],
+      "pattern": "55 8B EC 83 E4 F8 83 EC 18 56 57 8B F9 89 7C 24 0C"
+    },
+	{
       "name": "dwAutoAccept",
       "extra": 0,
       "relative": true,
@@ -978,6 +988,21 @@
       "name": "m_bUseCustomAutoExposureMin",
       "prop": "m_bUseCustomAutoExposureMin",
       "table": "DT_EnvTonemapController"
+    },
+	{
+      "name": "m_flTimerLength",
+      "prop": "m_flTimerLength",
+      "table": "DT_PlantedC4"
+    },
+    {
+      "name": "m_flDefuseLength",
+      "prop": "m_flDefuseLength",
+      "table": "DT_PlantedC4"
+    },
+    {
+      "name": "m_flDefuseCountDown",
+      "prop": "m_flDefuseCountDown",
+      "table": "DT_PlantedC4"
     },
     {
       "name": "m_bUseCustomAutoExposureMax",

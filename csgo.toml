@@ -1,4 +1,4 @@
-timestamp = 1587144436
+timestamp = 1587535203
 
 [signatures]
 anim_overlays = 10624
@@ -7,8 +7,8 @@ clientstate_delta_ticks = 372
 clientstate_last_outgoing_command = 19748
 clientstate_net_channel = 156
 convar_name_hash_table = 192760
-dwAcceptMatch = 3526984684
-dwAutoAccept = 3526984684
+dwAcceptMatch = 3466757100
+dwAutoAccept = 3466757100
 dwClientState = 5807564
 dwClientState_GetLocalPlayer = 384
 dwClientState_IsHLTV = 19776
@@ -48,7 +48,7 @@ dwYawPtr = 13849480
 dwZoomSensitivityRatioPtr = 13870544
 dwbSendPackets = 867418
 dwppDirect3DDevice9 = 684080
-find_hud_element = 651543152
+find_hud_element = 711770736
 force_update_spectator_glow = 3772626
 interface_engine_cvar = 256492
 is_c4_owner = 3823760

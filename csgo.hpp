@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 2020-04-22 06:00:03.432480600 UTC
+// 2020-05-03 07:01:09.051210400 UTC
 
 namespace hazedumper {
-constexpr ::std::int64_t timestamp = 1587535203;
+constexpr ::std::int64_t timestamp = 1588489269;
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -94,13 +94,13 @@ constexpr ::std::ptrdiff_t m_viewPunchAngle = 0x3020;
 } // namespace netvars
 namespace signatures {
 constexpr ::std::ptrdiff_t anim_overlays = 0x2980;
-constexpr ::std::ptrdiff_t clientstate_choked_commands = 0x4D28;
+constexpr ::std::ptrdiff_t clientstate_choked_commands = 0x10680006;
 constexpr ::std::ptrdiff_t clientstate_delta_ticks = 0x174;
 constexpr ::std::ptrdiff_t clientstate_last_outgoing_command = 0x4D24;
 constexpr ::std::ptrdiff_t clientstate_net_channel = 0x9C;
 constexpr ::std::ptrdiff_t convar_name_hash_table = 0x2F0F8;
-constexpr ::std::ptrdiff_t dwAcceptMatch = 0xCEA283EC;
-constexpr ::std::ptrdiff_t dwAutoAccept = 0xCEA283EC;
+constexpr ::std::ptrdiff_t dwAcceptMatch = 0xD1AB83EC;
+constexpr ::std::ptrdiff_t dwAutoAccept = 0xD1AB83EC;
 constexpr ::std::ptrdiff_t dwClientState = 0x589DCC;
 constexpr ::std::ptrdiff_t dwClientState_GetLocalPlayer = 0x180;
 constexpr ::std::ptrdiff_t dwClientState_IsHLTV = 0x4D40;
@@ -138,9 +138,9 @@ constexpr ::std::ptrdiff_t dwWeaponTable = 0x5195B24;
 constexpr ::std::ptrdiff_t dwWeaponTableIndex = 0x325C;
 constexpr ::std::ptrdiff_t dwYawPtr = 0xD35388;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xD3A5D0;
-constexpr ::std::ptrdiff_t dwbSendPackets = 0xD3C5A;
+constexpr ::std::ptrdiff_t dwbSendPackets = 0xD3CEA;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA7030;
-constexpr ::std::ptrdiff_t find_hud_element = 0x2A6CC270;
+constexpr ::std::ptrdiff_t find_hud_element = 0x2763C270;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3990D2;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3A5890;

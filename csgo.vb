@@ -1,7 +1,7 @@
-' 2020-04-22 06:00:03.432480600 UTC
+' 2020-05-03 07:01:09.051210400 UTC
 
 Namespace hazedumper
-    Public Const timestamp as Integer = &H5E9FDD63
+    Public Const timestamp as Integer = &H5EAE6C35
     Public Shared Class netvars
         Public Const cs_gamerules_data as Integer = &H0
         Public Const m_ArmorValue as Integer = &HB368
@@ -91,13 +91,13 @@ Namespace hazedumper
     End Class
     Public Shared Class signatures
         Public Const anim_overlays as Integer = &H2980
-        Public Const clientstate_choked_commands as Integer = &H4D28
+        Public Const clientstate_choked_commands as Integer = &H10680006
         Public Const clientstate_delta_ticks as Integer = &H174
         Public Const clientstate_last_outgoing_command as Integer = &H4D24
         Public Const clientstate_net_channel as Integer = &H9C
         Public Const convar_name_hash_table as Integer = &H2F0F8
-        Public Const dwAcceptMatch as Integer = &HCEA283EC
-        Public Const dwAutoAccept as Integer = &HCEA283EC
+        Public Const dwAcceptMatch as Integer = &HD1AB83EC
+        Public Const dwAutoAccept as Integer = &HD1AB83EC
         Public Const dwClientState as Integer = &H589DCC
         Public Const dwClientState_GetLocalPlayer as Integer = &H180
         Public Const dwClientState_IsHLTV as Integer = &H4D40
@@ -135,9 +135,9 @@ Namespace hazedumper
         Public Const dwWeaponTableIndex as Integer = &H325C
         Public Const dwYawPtr as Integer = &HD35388
         Public Const dwZoomSensitivityRatioPtr as Integer = &HD3A5D0
-        Public Const dwbSendPackets as Integer = &HD3C5A
+        Public Const dwbSendPackets as Integer = &HD3CEA
         Public Const dwppDirect3DDevice9 as Integer = &HA7030
-        Public Const find_hud_element as Integer = &H2A6CC270
+        Public Const find_hud_element as Integer = &H2763C270
         Public Const force_update_spectator_glow as Integer = &H3990D2
         Public Const interface_engine_cvar as Integer = &H3E9EC
         Public Const is_c4_owner as Integer = &H3A5890

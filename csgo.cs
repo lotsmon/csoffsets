@@ -1,10 +1,10 @@
 using System;
 
-// 2020-04-22 06:00:03.432480600 UTC
+// 2020-05-03 07:01:09.051210400 UTC
 
 namespace hazedumper
 {
-    public const Int32 timestamp = 1587535203;
+    public const Int32 timestamp = 1588489269;
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -96,13 +96,13 @@ namespace hazedumper
     public static class signatures
     {
         public const Int32 anim_overlays = 0x2980;
-        public const Int32 clientstate_choked_commands = 0x4D28;
+        public const Int32 clientstate_choked_commands = 0x10680006;
         public const Int32 clientstate_delta_ticks = 0x174;
         public const Int32 clientstate_last_outgoing_command = 0x4D24;
         public const Int32 clientstate_net_channel = 0x9C;
         public const Int32 convar_name_hash_table = 0x2F0F8;
-        public const Int32 dwAcceptMatch = 0xCEA283EC;
-        public const Int32 dwAutoAccept = 0xCEA283EC;
+        public const Int32 dwAcceptMatch = 0xD1AB83EC;
+        public const Int32 dwAutoAccept = 0xD1AB83EC;
         public const Int32 dwClientState = 0x589DCC;
         public const Int32 dwClientState_GetLocalPlayer = 0x180;
         public const Int32 dwClientState_IsHLTV = 0x4D40;
@@ -140,9 +140,9 @@ namespace hazedumper
         public const Int32 dwWeaponTableIndex = 0x325C;
         public const Int32 dwYawPtr = 0xD35388;
         public const Int32 dwZoomSensitivityRatioPtr = 0xD3A5D0;
-        public const Int32 dwbSendPackets = 0xD3C5A;
+        public const Int32 dwbSendPackets = 0xD3CEA;
         public const Int32 dwppDirect3DDevice9 = 0xA7030;
-        public const Int32 find_hud_element = 0x2A6CC270;
+        public const Int32 find_hud_element = 0x2763C270;
         public const Int32 force_update_spectator_glow = 0x3990D2;
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3A5890;

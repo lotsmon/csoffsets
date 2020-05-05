@@ -1,7 +1,7 @@
-' 2020-05-05 01:22:44.405398400 UTC
+' 2020-05-05 01:33:31.488973700 UTC
 
 Namespace hazedumper
-    Public Const timestamp as Integer = &H5EB0BFE4
+    Public Const timestamp as Integer = &H5EB0C26B
     Public Shared Class netvars
         Public Const cs_gamerules_data as Integer = &H0
         Public Const m_ArmorValue as Integer = &HB368

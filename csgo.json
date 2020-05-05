@@ -1,5 +1,5 @@
 {
-  "timestamp": 1588642411,
+  "timestamp": 1588642853,
   "signatures": {
     "anim_overlays": 10624,
     "clientstate_choked_commands": 19752,
@@ -7,8 +7,6 @@
     "clientstate_last_outgoing_command": 19748,
     "clientstate_net_channel": 156,
     "convar_name_hash_table": 192760,
-    "dwAcceptMatch": 3477636076,
-    "dwAutoAccept": 3477636076,
     "dwClientState": 5807564,
     "dwClientState_GetLocalPlayer": 384,
     "dwClientState_IsHLTV": 19776,

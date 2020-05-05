@@ -1,10 +1,10 @@
 #pragma once
 #include <cstdint>
 
-// 2020-05-05 01:33:31.488973700 UTC
+// 2020-05-05 01:40:53.267300500 UTC
 
 namespace hazedumper {
-constexpr ::std::int64_t timestamp = 1588642411;
+constexpr ::std::int64_t timestamp = 1588642853;
 namespace netvars {
 constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB368;
@@ -99,8 +99,6 @@ constexpr ::std::ptrdiff_t clientstate_delta_ticks = 0x174;
 constexpr ::std::ptrdiff_t clientstate_last_outgoing_command = 0x4D24;
 constexpr ::std::ptrdiff_t clientstate_net_channel = 0x9C;
 constexpr ::std::ptrdiff_t convar_name_hash_table = 0x2F0F8;
-constexpr ::std::ptrdiff_t dwAcceptMatch = 0xCF4883EC;
-constexpr ::std::ptrdiff_t dwAutoAccept = 0xCF4883EC;
 constexpr ::std::ptrdiff_t dwClientState = 0x589DCC;
 constexpr ::std::ptrdiff_t dwClientState_GetLocalPlayer = 0x180;
 constexpr ::std::ptrdiff_t dwClientState_IsHLTV = 0x4D40;

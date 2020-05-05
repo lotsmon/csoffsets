@@ -1,7 +1,7 @@
-' 2020-05-05 01:33:31.488973700 UTC
+' 2020-05-05 01:40:53.267300500 UTC
 
 Namespace hazedumper
-    Public Const timestamp as Integer = &H5EB0C26B
+    Public Const timestamp as Integer = &H5EB0C425
     Public Shared Class netvars
         Public Const cs_gamerules_data as Integer = &H0
         Public Const m_ArmorValue as Integer = &HB368
@@ -96,8 +96,6 @@ Namespace hazedumper
         Public Const clientstate_last_outgoing_command as Integer = &H4D24
         Public Const clientstate_net_channel as Integer = &H9C
         Public Const convar_name_hash_table as Integer = &H2F0F8
-        Public Const dwAcceptMatch as Integer = &HCF4883EC
-        Public Const dwAutoAccept as Integer = &HCF4883EC
         Public Const dwClientState as Integer = &H589DCC
         Public Const dwClientState_GetLocalPlayer as Integer = &H180
         Public Const dwClientState_IsHLTV as Integer = &H4D40

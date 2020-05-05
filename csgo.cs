@@ -1,10 +1,10 @@
 using System;
 
-// 2020-05-05 01:33:31.488973700 UTC
+// 2020-05-05 01:40:53.267300500 UTC
 
 namespace hazedumper
 {
-    public const Int32 timestamp = 1588642411;
+    public const Int32 timestamp = 1588642853;
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -101,8 +101,6 @@ namespace hazedumper
         public const Int32 clientstate_last_outgoing_command = 0x4D24;
         public const Int32 clientstate_net_channel = 0x9C;
         public const Int32 convar_name_hash_table = 0x2F0F8;
-        public const Int32 dwAcceptMatch = 0xCF4883EC;
-        public const Int32 dwAutoAccept = 0xCF4883EC;
         public const Int32 dwClientState = 0x589DCC;
         public const Int32 dwClientState_GetLocalPlayer = 0x180;
         public const Int32 dwClientState_IsHLTV = 0x4D40;

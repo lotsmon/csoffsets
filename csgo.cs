@@ -1,10 +1,10 @@
 using System;
 
-// 2020-05-28 06:27:27.711541200 UTC
+// 2020-05-29 19:37:53.077990300 UTC
 
 namespace hazedumper
 {
-    public const Int32 timestamp = 1590647247;
+    public const Int32 timestamp = 1590781073;
     public static class netvars
     {
         public const Int32 cs_gamerules_data = 0x0;
@@ -141,7 +141,7 @@ namespace hazedumper
         public const Int32 dw_UserInfoTable = 0x52B8898B;
         public const Int32 dwbSendPackets = 0xD3EFA;
         public const Int32 dwppDirect3DDevice9 = 0xA7030;
-        public const Int32 find_hud_element = 0x55A8FD40;
+        public const Int32 find_hud_element = 0x2728FD40;
         public const Int32 force_update_spectator_glow = 0x39CB92;
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3A93A0;

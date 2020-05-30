@@ -1,5 +1,5 @@
 ---
-timestamp: 1590781073
+timestamp: 1590856501
 signatures:
   anim_overlays: 10624
   clientstate_choked_commands: 19752
@@ -44,7 +44,6 @@ signatures:
   dwWeaponTableIndex: 12892
   dwYawPtr: 13878168
   dwZoomSensitivityRatioPtr: 13899232
-  dw_UserInfoTable: 1387825547
   dwbSendPackets: 868090
   dwppDirect3DDevice9: 684080
   find_hud_element: 656997696

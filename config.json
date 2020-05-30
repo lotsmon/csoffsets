@@ -13,16 +13,6 @@
       "pattern": "A1 ? ? ? ? 33 D2 6A 00 6A 00 33 C9 89 B0"
     },
     {
-      "name": "dw_UserInfoTable",
-      "extra": 0,
-      "relative": false,
-      "module": "engine.dll",
-      "offsets": [
-        0
-      ],
-      "pattern": "8B 89 ? ? ? ? 85 C9 0F 84 ? ? ? ? 8B 01"
-    },
-    {
       "name": "dwClientState_GetLocalPlayer",
       "extra": 0,
       "relative": false,
